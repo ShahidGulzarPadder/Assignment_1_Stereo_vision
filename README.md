@@ -18,4 +18,4 @@ Design and implementation of these stereo-matching schemes:
 Input data
 
 I have used Middlebury stereo datasets with standard focal length 3740 and 160mm baseline.
-All six pairs can be found in Outputs folder
+I have uploaded only one output folder of Aloe pair with name OP-Aloe, due to size limitation on Github I cannot upload more than 25MB but I will discuss everything in tohe documentation

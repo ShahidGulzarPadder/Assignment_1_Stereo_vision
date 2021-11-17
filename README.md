@@ -37,5 +37,5 @@ I have uploaded only one output folder of Aloe pair with name OP-Aloe, due to si
 <img width="776" alt="Teddy" src="https://user-images.githubusercontent.com/80226882/142284993-7b258f72-51cd-4f4e-9152-98f833637e0b.png">
 
 # ART
-
+<img width="772" alt="ART" src="https://user-images.githubusercontent.com/80226882/142286726-08cbdfd6-822f-4f05-9828-95e5721a13d8.png">
 

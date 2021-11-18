@@ -19,7 +19,7 @@ Input data
 
 I have used Middlebury stereo datasets with standard focal length 3740 and 160mm baseline.
 
-I have uploaded only one output folder of Aloe pair with name OP-Aloe, due to size limitation on Github I cannot upload more than 25MB but I will discuss everything in tohe documentation
+I have uploaded only one output folder of Aloe pair with name OP-Aloe, due to size limitation on Github I cannot upload more than 25MB but I will discuss everything in the documentation
 
 # ALOE
 <img width="761" alt="ALOE" src="https://user-images.githubusercontent.com/80226882/142281527-bd99edb9-e265-49f6-a694-0b1b883e6cc0.png">

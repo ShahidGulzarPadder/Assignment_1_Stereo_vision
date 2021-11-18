@@ -39,6 +39,8 @@ I have uploaded only one output folder of Aloe pair with name OP-Aloe, due to si
 # ART
 <img width="772" alt="ART" src="https://user-images.githubusercontent.com/80226882/142286726-08cbdfd6-822f-4f05-9828-95e5721a13d8.png">
 
+# Normal computation time with different window sizes 
+
 | WINDOW = 3                   | ART            | BOOKS        | CONES      | TEDDY      | BABY1      | ALOE      |
 | -------------                |  ------------- | ------------ | ---------- | ---------- | ---------- | --------- |
 | Naive Computation time (s)   | 24.7           | 24.13        | 1.22       | 1.25       | 3.00       | 3.15      |
@@ -49,4 +51,17 @@ I have uploaded only one output folder of Aloe pair with name OP-Aloe, due to si
 | WINDOW = 7                   |                |              |            |            |            |           |
 | Naive Computation time (s)   | 88.13          | 88.78        | 3.33       | 3.68       | 9.04       | 10.07     |
 | Dynamic computation time (s) | 175.5          | 105.9        | 3.73       | 3.68       | 10.77      | 11.60     |
+
+# Parallel computation time with different window sizes 
+
+| WINDOW = 3                   | ART            | BOOKS        | CONES      | TEDDY      | BABY1      | ALOE      |
+| -------------                |  ------------- | ------------ | ---------- | ---------- | ---------- | --------- |
+| Naive Computation time (s)   | 7.74           | 7.7          | 0.39       | 0.39       | 1.05       | 1.00      |
+| Dynamic computation time (s) | 11.28          | 12.1         | 0.44       | 0.39       | 1.11       | 1.09      |
+| WINDOW = 5                   |                |              |            |            |            |           |
+| Naive Computation time (s)   | 15.09          | 15.15        | 0.70       | 0.67       | 1.86       | 2.01      |
+| Dynamic computation time (s) | 22.93          | 22.9         | 0.69       | 0.79       | 1.74       | 1.80      |
+| WINDOW = 7                   |                |              |            |            |            |           |
+| Naive Computation time (s)   | 28.61          | 29.47        | 1.16       | 3.11       | 3.11       | 2.98      |
+| Dynamic computation time (s) | 35.67          | 34.53        | 0.95       | 2.74       | 2.74       | 2.90      |
 

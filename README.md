@@ -39,3 +39,14 @@ I have uploaded only one output folder of Aloe pair with name OP-Aloe, due to si
 # ART
 <img width="772" alt="ART" src="https://user-images.githubusercontent.com/80226882/142286726-08cbdfd6-822f-4f05-9828-95e5721a13d8.png">
 
+| WINDOW = 3                   | ART            | BOOKS        | CONES      | TEDDY      | BABY1      | ALOE      |
+| -------------                |  ------------- | ------------ | ---------- | ---------- | ---------- | --------- |
+| Naive Computation time (s)   | 24.7           | 24.13        | 1.22       | 1.25       | 3.00       | 3.15      |
+| Dynamic computation time (s) | 36.2           | 36.64        | 1.33       | 1.42       | 3.77       | 4.07      |
+| WINDOW = 5                   |                |              |            |            |            |           |
+| Naive Computation time (s)   | 51.15          | 51.70        | 2.24       | 2.34       | 5.71       | 6.12      |
+| Dynamic computation time (s) | 106.7          | 110.63       | 2.39       | 2.28       | 6.79       | 7.30      |
+| WINDOW = 7                   |                |              |            |            |            |           |
+| Naive Computation time (s)   | 88.13          | 88.78        | 3.33       | 3.68       | 9.04       | 10.07     |
+| Dynamic computation time (s) | 175.5          | 105.9        | 3.73       | 3.68       | 10.77      | 11.60     |
+
